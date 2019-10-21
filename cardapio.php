@@ -19,14 +19,15 @@
 	<!-- Cabeçalho -->
 	<nav class=" amber darken-2" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="/index.php" class="brand-logo"><img src="img/logo.png" style="margin-top: 5%;"></a>
+      <a id="logo-container" href="/index.php" class="brand-logo"><img src="img/logo.png" style="margin-top: 5%;"> </a>
       <ul class="right hide-on-med-and-down">
-      	<li><a href="/pratocustom.php">Pratos customizaveis</a></li>
+      	<li><a href="/pratocustom.php">Pratos customizaveis </a> </li>
       </ul>
 		<!-- Mobile -->
 		<ul id="nav-mobile" class="sidenav">
 		<h4> 
-			<center><img src="/img/logo.png"></h4></center>
+			<center><img src="/img/logo.png"></center>
+			</h4>
 		<hr>
         <li><a href="#">Crie seu prato</a></li>
       </ul><p>
