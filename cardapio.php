@@ -150,7 +150,7 @@
       				<img class="activator" src="img/pratos/fetuccini.jpg">
    				 </div>
     				<div class="card-content">
-    				  <span class="card-title activator orange-text text-darken-4">Fetuccini alfredo<i class="material-icons right">more_vert</i></span>
+    				  <span class="card-title activator orange-text text-darken-4">Fettuccine alfredo<i class="material-icons right">more_vert</i></span>
     				  <p>
     				  	<strong class="flow-text"> R$ 29,90 </strong>
     				  	<br>
