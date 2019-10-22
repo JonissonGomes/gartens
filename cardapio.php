@@ -398,7 +398,7 @@
    						 <div class="card-reveal">
       						<span class="card-title orange-text text-darken-4">Descrição: <i class="material-icons right">close</i></span>
       						<p>
-      							- Lata <br>
+      							- Garrafa <br>
       							- 330ml<br> 
        						</p>
     					</div>
@@ -423,7 +423,7 @@
    						 <div class="card-reveal">
       						<span class="card-title orange-text text-darken-4">Descrição: <i class="material-icons right">close</i></span>
       						<p>
-      							- Garrafa<br>
+      							- Lata<br>
       							- 330ml<br>
       							
       						</p>
